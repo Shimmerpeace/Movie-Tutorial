@@ -6,7 +6,7 @@ function Home() {
     { id: 2, title: "Terminator", release_date: "1999" },
     { id: 3, title: "Shrek", release_date: "2015" },
     { id: 4, title: "Justice League", release_date: "2019" },
-    { id: 5, title: "Cinderelle", release_date: "2018" },
+    { id: 5, title: "Cinderella", release_date: "2018" },
   ];
   const handleSearch = () => {};
   return (
